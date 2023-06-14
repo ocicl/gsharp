@@ -1,10 +1,7 @@
 * gsharp
 
-
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/gsharp/gsharp.git   |
-| commit  |   |
-| systems | gsharp |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/gsharp/gsharp.git |
+| commit  | ee24caa7                                             |
+| systems | gsharp                                               |
+|---------+------------------------------------------------------|
