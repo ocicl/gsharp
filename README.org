@@ -1,7 +1,8 @@
 * gsharp
 
+
 |---------+------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/gsharp/gsharp.git |
-| commit  | ee24caa7                                             |
+| commit  | ee24caa                                              |
 | systems | gsharp                                               |
 |---------+------------------------------------------------------|
